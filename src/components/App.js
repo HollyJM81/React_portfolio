@@ -1,10 +1,15 @@
 import React from "react";
+import Content from "./Content";
+import Footer from "./Footer";
+import Header from "./Header";
 
 function App() {
 	return (
-		<div>
-			<h1>content goes here</h1>
-		</div>
+		<>
+			<Header />
+			<Content />
+			<Footer />
+		</>
 	);
 }
 
