@@ -1,6 +1,6 @@
 import React from "react";
 
-const Page = () => {
+const Page = ({ open, setOpen, layer, setLayer, labelDir, setLabelDir }) => {
 	return <div></div>;
 };
 

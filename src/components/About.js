@@ -4,21 +4,21 @@ const About = () => {
 	return (
 		<section id="about">
 			<p>
-				My name is Holly, and I'm a coder in one time zone, and a conductor in
-				another.
+				I'm a coder in one time zone, and a conductor in another.
 				<br />
 				<br />
 				<b>I'm a maker, a solutions-strategist, and a champion for kindness.</b>
 			</p>
 			<p>
-				<h4>Code</h4>In my own projects, I'm interested in the intersection of
-				the arts and digital technology, and the possibilities for heightened
-				creativity in real-world and networked spaces. <br />
-				<br />
-				I'm passionate about smart digital solutions for a cleaner and fairer
-				world, building code that inspires and enables creative work, and
-				bringing society back towards seeing the arts as something to do rather
-				than something to consume.
+				<h4>Code</h4>In my own projects, I'm particularly interested in the
+				intersection of the arts and digital technology, and the possibilities
+				for heightened creativity in real-world and networked spaces. I'm also
+				passionate about smart digital solutions for a cleaner and fairer world.
+				On contract, I especially love building code that inspires and enables
+				creative work, and hope I can do work that brings society back towards
+				seeing the arts as something to do rather than something to consume.
+				Outside of that, I'll happily tackle anything interesting for good
+				people, so send me your ideas!
 				<br />
 				<br />
 				<h4>Conducting</h4>I am the Music Director for a cracking wee band in
@@ -67,7 +67,9 @@ const About = () => {
 				<br />
 				Death-row meal: Char siu cheung fun
 				<br />
-				Always on my playlist: Korngold Symphony in F#
+				Always on my playlist: Korngold Symphony in F#, Radiohead OK Computer,
+				Goldenhorse Riverhead, Schreker Overture to Die Gezeichneten, Portishead
+				Portishead, Supertramp Best of Supertramp, Beatles Rubber Soul
 				<br />
 				Secret super power: Jigsaw puzzles
 				<br />

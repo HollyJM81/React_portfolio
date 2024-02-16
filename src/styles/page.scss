@@ -1,0 +1,4 @@
+@import "../variables/variables.scss";
+
+// By default, About is set to z-index 0; Projecst to z-index 1 and tech_stack to z-index 2
+// On z-index change, the label position and rotation needs to change (labelDir, setLabelDir), and shading rules apply if needed (maybe these are always active)
